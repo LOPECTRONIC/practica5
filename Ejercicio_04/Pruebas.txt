@@ -1,0 +1,4 @@
+T1 Norte: 24.0 C
+T1 Norte: 23.0 C
+H1 Sur: 65 %
+L1 Centro: 400 lux

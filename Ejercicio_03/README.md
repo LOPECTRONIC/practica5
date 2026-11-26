@@ -1,0 +1,1 @@
+El tipo estático determina qué métodos se pueden invocar. El tipo dinámico determina la implementación sobrescrita. Reto: `Entrega e ---> objeto EntregaBicicleta`. Pruebas: 13 y 22; con recargo 15 y 24; distancia cero 5.

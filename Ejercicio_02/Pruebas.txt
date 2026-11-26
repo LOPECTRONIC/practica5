@@ -1,0 +1,7 @@
+Cafe: 12.0
+Sandwich: 18.0
+Jugo: 10.0
+Subtotal: 40.00
+Total: 36.00
+Cuarto producto: false
+Precio rechazado

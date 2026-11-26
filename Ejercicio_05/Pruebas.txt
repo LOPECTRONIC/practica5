@@ -1,0 +1,6 @@
+Prestamo: true
+Repetido: false
+Vencido dia 8: false
+Vencido dia 9: true
+Devolucion: true
+Disponible: true

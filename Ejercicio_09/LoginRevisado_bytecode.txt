@@ -1,0 +1,42 @@
+Compiled from "LoginRevisado.java"
+public class LoginRevisado {
+  private final java.lang.String usuarioConfigurado;
+
+  private int intentos;
+
+  LoginRevisado(java.lang.String);
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: aload_0
+       5: aload_1
+       6: putfield      #7                  // Field usuarioConfigurado:Ljava/lang/String;
+       9: return
+
+  boolean permiteRevision(java.lang.String);
+    Code:
+       0: aload_0
+       1: getfield      #13                 // Field intentos:I
+       4: iconst_3
+       5: if_icmplt     10
+       8: iconst_0
+       9: ireturn
+      10: aload_0
+      11: dup
+      12: getfield      #13                 // Field intentos:I
+      15: iconst_1
+      16: iadd
+      17: putfield      #13                 // Field intentos:I
+      20: aload_0
+      21: getfield      #7                  // Field usuarioConfigurado:Ljava/lang/String;
+      24: ifnull        42
+      27: aload_0
+      28: getfield      #7                  // Field usuarioConfigurado:Ljava/lang/String;
+      31: aload_1
+      32: invokevirtual #17                 // Method java/lang/String.equals:(Ljava/lang/Object;)Z
+      35: ifeq          42
+      38: iconst_1
+      39: goto          43
+      42: iconst_0
+      43: ireturn
+}

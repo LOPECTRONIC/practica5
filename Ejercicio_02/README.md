@@ -1,0 +1,1 @@
+Asociación: los productos se crean fuera del pedido y pueden existir independientemente. Reto Easy: descuento del 10% si subtotal supera 30. Pruebas: subtotal 40, total 36, cuarto producto rechazado y precio cero rechazado.
