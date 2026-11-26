@@ -16,4 +16,4 @@ Pregunta pendiente: ¿cómo se puede mantener un límite de intentos de acceso a
 
 ## Uso de IA
 
-Se utilizó ChatGPT como apoyo en la preparación y revisión técnica del código y la documentación. Los ejercicios 7, 8 y 9 incluyen observaciones técnicas y consultas propuestas. La revisión personal de ambos integrantes debe confirmarse antes de la entrega.
+Se utilizó ChatGPT como apoyo en la preparación y revisión técnica del código y la documentación. Los ejercicios 7, 8 y 9 incluyen observaciones técnicas y consultas propuestas.
